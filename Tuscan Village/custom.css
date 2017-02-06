@@ -1,0 +1,227 @@
+﻿body {
+    background-color:#D2D2D2;
+}
+.jumbotron {
+    background-color:#D2D2D2;
+}
+.pageHeader {
+    margin-bottom:30px;
+    margin-top:30px;
+    height:250px;
+    }
+
+
+h1, h3 {
+    text-align:center;
+    padding-top: 30px;
+    padding-bottom:35px;
+}
+
+h1 {
+    font-size:70px;
+    font-family: 'Arimo', sans-serif;
+    margin-bottom:0px;
+    padding-bottom:0px;
+    font-stretch:ultra-expanded;
+    letter-spacing: 10px;
+}
+
+h3 {
+    font-family: 'Stalemate', cursive;
+    margin:-20px;
+    padding-top:0px;
+    font-size: 75px;
+    font-weight:400;
+    letter-spacing: 2px;
+}
+
+.navbar .navbar-nav {
+  font-family:montserrat;
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-brand { 
+    height: 60px;
+    width: 100px;
+    padding: 0px;
+    margin-left: 10px;
+}
+
+div.container-fluid {
+    padding: 0px;
+    margin: 0px;
+}
+.coverPicture {
+    border: 2px solid white;
+    height: 432px;
+    width: 1000px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 0px;
+
+}
+
+.mapPic {
+
+      border: 2px solid white;
+      height: 432px;
+      width: 660px;
+      margin-top: 0px;
+      margin-left: 0px;
+      margin-bottom: 0px;
+      margin-right: 0px;
+      padding: 0px;
+      
+      
+}
+
+.thumbnailPics {
+    border: 2px solid white;
+    margin: 0px;
+    padding: 0px;
+    height: 348px;
+    width: 348px;
+}
+
+.thumbnailLeft {
+     height: 348px;
+    width: 348px;
+    margin-left: 0px;
+}
+
+.thumbnailRight {
+     height: 348px;
+    width: 348px;
+    margin-right: 0px;
+}
+
+.largeCoverText {
+    font-family:montserrat;
+    background-color:dimgrey;
+    color:white;
+    opacity:.75;
+    font-weight:normal;
+    font-size:26px;
+    position: absolute;
+    top: 200px;
+    left:120px;
+    text-align:center;
+    
+}
+
+.smallText {
+    font-family: montserrat;
+    background-color:dimgrey;
+    color:white;
+    opacity:.75;
+    font-weight:normal;
+    font-size: 18px;
+    position: absolute;
+    top: 200px;
+    left:50px;
+    margin-left:100px;
+    margin-top:51px;
+}
+.whiteText {
+    color:white;
+    font-family:montserrat;
+     background-color:white;
+    opacity:.85;
+    font-weight:bold;
+    font-size:18px;
+    position: absolute;
+    top: 45px;
+    left:25px;
+    margin-left:50px;
+    text-align:center;
+
+
+}
+.greenText {
+    color:#4FB1A2;
+    font-family:montserrat;
+    background-color:white;
+    opacity:.85;
+    font-weight:bold;
+    font-size:18px;
+    position: absolute;
+    top: 45px;
+    left:25px;
+    margin-left:50px;
+    text-align:center;
+}
+.greenColumn {
+    background-color:#4FB1A2;
+    padding: 0px;
+    position: absolute;
+    height: 348px;
+    width: 348px;
+}
+
+.mapLargeFont {
+    font-family: montserrat;
+    background-color: rgba(255,255,255,.60);
+    color:dimgray;
+    font-weight:normal;
+    font-size:26px;
+    position: absolute;
+    top: 150px;
+    left:50px;
+    margin-right:55px;
+    text-align: center;
+
+}
+
+.mapSmallFont {
+    font-family: montserrat;
+    background-color:rgba(255,255,255,.65);
+    
+    color:dimgray;
+    opacity:.85;
+    font-weight:normal;
+    font-size:12px;
+    position: absolute;
+    top: 250px;
+    left:120px;
+    margin-left:59px;
+    margin-top: 62px;
+    text-align: center;
+}
+
+.thumbnailText {
+    font-family:monsterrat;
+    background-color:white;
+    color:dimgray;
+    opacity:.85;
+    font-weight:normal;
+    font-size:22px;
+    position: absolute;
+    top: 200px;
+    left:90px;
+    margin-left:50px;
+    text-align:center;
+}
+
+.paragraphText {
+    font-family:montserrat;
+    background-color:white;
+    color:dimgray;
+    opacity:.85;
+    font-weight:bold;
+    font-size:18px;
+    position: absolute;
+    top: 45px;
+    left:25px;
+    margin-left:50px;
+    text-align:center;
+}
+.socialMediaLogo {
+   float: left;
+}
+
