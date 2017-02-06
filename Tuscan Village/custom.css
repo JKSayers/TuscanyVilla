@@ -89,18 +89,6 @@ div.container-fluid {
     width: 348px;
 }
 
-.thumbnailLeft {
-     height: 348px;
-    width: 348px;
-    margin-left: 0px;
-}
-
-.thumbnailRight {
-     height: 348px;
-    width: 348px;
-    margin-right: 0px;
-}
-
 .largeCoverText {
     font-family:montserrat;
     background-color:dimgrey;
