@@ -225,3 +225,7 @@ div.container-fluid {
    float: left;
 }
 
+footer {
+    text-align:center;
+    font-size: 12px;
+}
